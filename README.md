@@ -8,4 +8,4 @@ Promizde mikrofon üzerinden gerçek zamanlı olarak alınan ses sinyalini kulla
 
 
 ----------
-![enter image description here](http://seyfullahuysal.com/wp-content/uploads/2016/12/sayisal_filtre1-1024x626.png)
+![enter image description here](images/sayisal_filtre1-1024x626.png)
